@@ -29,14 +29,14 @@ Follow these steps to install and run the project on your computer:
   6. You will have to fill de Jug's capacities and the amount of water you want to measure.
   7. The app will output the steps required to measure the target amount using the given jugs and also how mucha gallons of water has each Jug.
 
-## Explanation
+## Description of the repository
 The Water Jug Challenge is a classic puzzle that involves two jugs with different capacities, and the objective is to measure a specific amount of water using only these jugs. This repository provides a solution to the Water Jug Challenge using a simple algorithm.
 
 The solution utilizes a while loop to iterate through different actions and track the state of the jugs. The algorithm performs operations such as filling, emptying, and transferring water between the jugs. It ensures the validity of the operations and outputs the sequence of steps and the final result.
 
 By systematically iterating through the possible actions and updating the jug states, the algorithm explores different combinations until it reaches the desired measurement. This iterative approach allows for an efficient and effective solution to the Water Jug Challenge.
 
-## Available Commands
+## Running Commands
 
 In the project, you can run the following commands:
 
