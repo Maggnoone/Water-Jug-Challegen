@@ -9,7 +9,7 @@ Make sure you have the following prerequisites:
 ## Installation Steps
 Follow these steps to install and run the project on your computer:
 
-  1. Clone this repository to your local machine. You can do this by downloading the ZIP file or using GIt in your terminal: (https://github.com/Maggnoone/Water-Jug-Challegen.git)
+  1. Clone this repository to your local machine. You can do this by downloading the ZIP file or using GIt in your terminal: (https://github.com/Maggnoone/water-jug-challenge.git)
      
   2. Open the terminal on you code editor or your computer and navigate to the following project directory:
   ```
