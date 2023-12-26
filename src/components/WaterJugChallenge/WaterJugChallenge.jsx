@@ -83,7 +83,7 @@ const WaterJugChallenge = () => {
             jugBAmount -= transferedAmount;
             jugAAmount += transferedAmount;
             newSteps.push(
-              `Transfer ${transferedAmount} gallons of water from Jug B to Jug A (Jug A has now ${jugAAmount} gallons, and Jug B has ${jugBAmount})`
+              `Transfer ${transferedAmount} gallons of water from Jug B to Jug A (Jug A has now ${jugAAmount} gallons, and Jug B has ${jugBAmount} gallons)`
             );
           }
       } 
